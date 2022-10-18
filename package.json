@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cezarine/NodeAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cezarine/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/Cezarine/NodeAPI#readme",
+  "description": ""
+}
